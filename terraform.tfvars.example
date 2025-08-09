@@ -1,0 +1,6 @@
+# rename to terraform.tfvars and fill in
+hcloud_token    = "hc-xxxxxxxxxxxxxxxx"
+wireguard_port  = "38123"
+
+cloudflare_api_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+cloudflare_zone_id   = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
